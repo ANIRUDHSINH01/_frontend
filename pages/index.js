@@ -1,3 +1,4 @@
+import { useSession } from 'next-auth/react';
 import BotForm from '../components/BotForm'
 
 export default function Home() {
